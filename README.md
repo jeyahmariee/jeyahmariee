@@ -1,5 +1,7 @@
 ### Hi there 👋 my name is Jeyah! Welcome! What's up!
 
+im testing to see if this is normal body text.
+
 <!--
 **jeyahmariee/jeyahmariee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
