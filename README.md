@@ -1,4 +1,4 @@
-### Hi there 👋 my name is Jeyah! Welcome!
+### Hi there 👋 my name is Jeyah! Welcome! What's up!
 
 <!--
 **jeyahmariee/jeyahmariee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
