@@ -1,6 +1,6 @@
-### Hi there 👋 my name is Jeyah! Welcome! What's up!
+### hi there!
 
-im testing to see if this is normal body text.
+my name is jeyah and i am a fourth year microbiology and immunology student at UBC. here's to trying new things and learning new skills :)
 
 <!--
 **jeyahmariee/jeyahmariee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
